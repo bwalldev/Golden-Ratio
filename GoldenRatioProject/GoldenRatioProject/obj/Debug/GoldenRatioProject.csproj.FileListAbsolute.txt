@@ -1,0 +1,15 @@
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\bin\Debug\Golden Ratio Project.exe.config
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\bin\Debug\Golden Ratio Project.exe.manifest
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\bin\Debug\Golden Ratio Project.application
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\bin\Debug\Golden Ratio Project.exe
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\bin\Debug\Golden Ratio Project.pdb
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\GoldenRatioProject.Form1.resources
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\GoldenRatioProject.Properties.Resources.resources
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\GoldenRatioProject.csproj.GenerateResource.Cache
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\Golden Ratio Project.exe.manifest
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\Golden Ratio Project.application
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\Golden Ratio Project.exe
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\Golden Ratio Project.pdb
+C:\Users\Brandon\documents\visual studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\Golden Ratio Project.TrustInfo.xml
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\GoldenRatioProject.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\GoldenRatioProject\GoldenRatioProject\obj\Debug\GoldenRatioProject.csproj.CoreCompileInputs.cache
